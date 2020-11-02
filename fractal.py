@@ -58,7 +58,7 @@ def move_point(xy,point,k):
 def draw_point(xy):
     for i in range(len(xy)):
         j = random.randrange(len(color))
-        pygame.draw.circle(screen, color[j], xy[i], 0)
+        screen.set_at(xy[i], color[j])
 
 def turn(point):
     for elem in point:
