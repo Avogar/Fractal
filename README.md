@@ -1,3 +1,1 @@
-Чтобы всё работало корректно у вас должна быть установлена библиотека pygame.
-
-Просто запустите программу и наслаждайтесь!
+Program that generates beautiful fractals. Just run it and enjoy!
